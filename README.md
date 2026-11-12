@@ -107,6 +107,3 @@ README.md
 - Shipping a polished, themed UI in dependency-free JavaScript
 - Choosing tools by what the problem needs, and being able to explain the trade-offs
 
-## License
-
-MIT. Add a `LICENSE` file before publishing.
